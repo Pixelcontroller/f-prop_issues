@@ -28,3 +28,16 @@ Ideally suited for:
 	- Kitchen and architectural lighting
 	
 ** These items share pins and thus using 1 may limit the availability of others
+
+# To download the FL3 file:
+
+1. Click on the .fl3 file above
+2. Near the right hand side of the screen will be a Raw button followed by 2 icons. The rightmost button is the download. Click that button to download the file.
+3. The file will download to the usual location when you download files to your computer.
+4. Now you can place it on an SD card to load it.
+
+If the f-prop complains the file is not valid in the fepbl.log file the most likely reasons are downloading it incorrectly.
+
+If all else fails email Support and we will email you the file.
+
+WARNING: Do NOT right click on the filename and select "Save Link As" ... this will not download a valid file!

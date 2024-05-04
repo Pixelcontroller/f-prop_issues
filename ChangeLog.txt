@@ -1,0 +1,8 @@
+Build 1
+	- initial release
+	
+Build 2 - May 4th, 2024
+	- Fixes for playing random and sequential sequences from both flash and SD
+	- Changes to settings for volume and brightness change events
+	- Add poll trigger type for sensors which can be more reliable if sensors are noisy
+	- Align web tool and firmware behaviour
