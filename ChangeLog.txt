@@ -6,3 +6,9 @@ Build 2 - May 4th, 2024
 	- Changes to settings for volume and brightness change events
 	- Add poll trigger type for sensors which can be more reliable if sensors are noisy
 	- Align web tool and firmware behaviour
+
+Build 3 - May 19th, 2024
+	- Allow mix of mono and stereo audio
+	- Fix issues with mono audio not playing correctly
+	- Fix unable to set negative values for volume and brightness adjustment
+
