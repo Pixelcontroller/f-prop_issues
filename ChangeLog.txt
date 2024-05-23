@@ -12,3 +12,10 @@ Build 3 - May 19th, 2024
 	- Fix issues with mono audio not playing correctly
 	- Fix unable to set negative values for volume and brightness adjustment
 
+Build 4 - May 23rd, 2024
+	- Fix FX effects display one pixel less than they should
+	- Fix issues playing some ZLIB fseq files
+	- Fix port 2 pixels setting ignored ... reusing value from port 1
+	- Fix audio start lag on events if main player is also playing audio
+	- Fix SD card FSEQ+Audio not working using web generated fep.cfg files
+	- Partially address slow board boot when no SD card present.
