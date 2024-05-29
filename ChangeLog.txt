@@ -19,3 +19,8 @@ Build 4 - May 23rd, 2024
 	- Fix audio start lag on events if main player is also playing audio
 	- Fix SD card FSEQ+Audio not working using web generated fep.cfg files
 	- Partially address slow board boot when no SD card present.
+	
+Build 5 - May 29th, 2024
+	- Fix Some issues with zlib fseq flashing leds
+	- Reverse some of the SD speedups due to some SD card compatibility issues
+	
