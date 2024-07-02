@@ -24,3 +24,7 @@ Build 5 - May 29th, 2024
 	- Fix Some issues with zlib fseq flashing leds
 	- Reverse some of the SD speedups due to some SD card compatibility issues
 	
+Build 6 - July 2nd, 2024
+	- Fix issues with playing random FSEQ+Audio from SD Card
+	- Fix some issues with sparse FSEQ files
+	
