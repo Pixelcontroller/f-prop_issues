@@ -28,3 +28,5 @@ Build 6 - July 2nd, 2024
 	- Fix issues with playing random FSEQ+Audio from SD Card
 	- Fix some issues with sparse FSEQ files
 	
+Build 7 - August 17th, 2024
+	- Fix issues with sequential playback of sequences from Flash and SD card
