@@ -30,3 +30,10 @@ Build 6 - July 2nd, 2024
 	
 Build 7 - August 17th, 2024
 	- Fix issues with sequential playback of sequences from Flash and SD card
+	
+Build 8 - August 35th, 2024
+	- Enh Add looping to player modes which can be advanced using a next events
+	- Fix Sequential sequence starts at the second sequence
+	- Fix Load from JSON into web tool loses some settings
+	
+	
