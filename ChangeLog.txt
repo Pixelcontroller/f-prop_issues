@@ -31,9 +31,15 @@ Build 6 - July 2nd, 2024
 Build 7 - August 17th, 2024
 	- Fix issues with sequential playback of sequences from Flash and SD card
 	
-Build 8 - August 35th, 2024
+Build 8 - August 25th, 2024
 	- Enh Add looping to player modes which can be advanced using a next events
 	- Fix Sequential sequence starts at the second sequence
 	- Fix Load from JSON into web tool loses some settings
 	
+Build 9 - October 14th, 2024
+	- Enh Add ability to update Bootloader (bootloader updates are only available after contacting support with symptoms of a problem that would be helped by this)
+	- Enh Add a sensor change trigger mode that triggers on sensor going high and low
+	- Fix Rainbow pattern does not work on > 255 pixels
+	- Fix Timers not generated correctly by web tool
+	- Fix Eliminate blank frame when sequences loop
 	
