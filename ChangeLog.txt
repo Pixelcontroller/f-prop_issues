@@ -42,4 +42,6 @@ Build 9 - October 14th, 2024
 	- Fix Rainbow pattern does not work on > 255 pixels
 	- Fix Timers not generated correctly by web tool
 	- Fix Eliminate blank frame when sequences loop
-	
+
+Build 10 - October 22nd, 2024
+	- Fix play FSEQ from flash plays only a few frames
