@@ -51,6 +51,7 @@ Build 11 - November 3rd, 2024
 	- Fix WAV files with metadata sections dont play correctly
 	- Fix When advancing animation sequences the position in the sequence was not resetting to the beginning but keeping the last sequence current position.
 
-Build 12 - 
+Build 12 - December 15, 2024
+	- Fix issue with random fseq + audio from flash not loading wav correctly
 	
 Contact us at support@pixelcontroller.com if you want something in an unreleased version would address an issue/need you have.
