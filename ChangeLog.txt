@@ -54,4 +54,10 @@ Build 11 - November 3rd, 2024
 Build 12 - December 15, 2024
 	- Fix issue with random fseq + audio from flash not loading wav correctly
 	
+Build 13 - January 24, 2025
+	- Fix issue when playing same song over and over again with FSEQ the audio is out of sync after first playing
+	- Fix some gaps/intervals not validating correctly ... now allow all to be up to 3hrs long
+	
+Build 14 - 
+	
 Contact us at support@pixelcontroller.com if you want something in an unreleased version would address an issue/need you have.
