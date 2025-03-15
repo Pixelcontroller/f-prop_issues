@@ -58,6 +58,10 @@ Build 13 - January 24, 2025
 	- Fix issue when playing same song over and over again with FSEQ the audio is out of sync after first playing
 	- Fix some gaps/intervals not validating correctly ... now allow all to be up to 3hrs long
 	
-Build 14 - 
+Build 14 - March 16, 2025
+	- Enh allow FX effects to be a limited range of effects
+	- Fix some issues with index events not keeping the original properties of the play mode being indexed
+	
+Build 15 - 
 	
 Contact us at support@pixelcontroller.com if you want something in an unreleased version would address an issue/need you have.
