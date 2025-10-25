@@ -62,6 +62,12 @@ Build 14 - March 16, 2025
 	- Enh allow FX effects to be a limited range of effects
 	- Fix some issues with index events not keeping the original properties of the play mode being indexed
 	
-Build 15 - 
+Build 15 - October 25, 2025
+	- Enh Add ability to overlay FSEQ animations from flash and SD
+	- Enh Add support for more input pins by adding an input shift register to sensor pins (see manual for details)
+	- Fix some edge case ZLIB FSEQs not playing correctly
+	- Fix some audio lag with FSEQ + Audio from flash
+
+Build 16 -
 	
 Contact us at support@pixelcontroller.com if you want something in an unreleased version would address an issue/need you have.
