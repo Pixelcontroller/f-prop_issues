@@ -68,6 +68,9 @@ Build 15 - October 25, 2025
 	- Fix some edge case ZLIB FSEQs not playing correctly
 	- Fix some audio lag with FSEQ + Audio from flash
 
-Build 16 -
+Build 16 - October 25, 2025
+    - Fix an issue reading some compressed ZLIB FSEQ files
+	
+Build 17 - 
 	
 Contact us at support@pixelcontroller.com if you want something in an unreleased version would address an issue/need you have.
